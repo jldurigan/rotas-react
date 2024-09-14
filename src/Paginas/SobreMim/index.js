@@ -1,5 +1,7 @@
+import Banner from "Componentes/Banner"
+
 const SobreMim = () => {
-    return(
+    return (
         <h1>Sobre mim</h1>
     )
 }
